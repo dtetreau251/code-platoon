@@ -7,6 +7,3 @@ Files which reflect work completed as part of the self-paced version of the Code
 David Tetreau
 [@david_tetreau](https://twitter.com/david_tetreau)
 
-# code-platoon-self-paced
-# code-platoon-self-paced
-# code-platoon-self-paced
