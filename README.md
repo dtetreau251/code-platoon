@@ -1,6 +1,6 @@
-# code-platoon-self-paced
+# code-platoon
 
-Files which reflect work completed as part of the self-paced version of the Code Platoon coding bootcamp
+Files which reflect work completed as part of the Code Platoon coding bootcamp
 
 ## Authors
 
